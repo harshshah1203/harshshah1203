@@ -7,13 +7,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshshah1203&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/harshshah1203?style=for-the-badge&color=blue&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/harshshah1203?style=for-the-badge&color=yellow&label=STARS" />
-</p>
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVzOHRhMG4ycmtkaGhoeXB1a3JqMHkyd3NoajVkenJicTd3cHR3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
 
 ---
@@ -62,7 +55,7 @@ Developer analytics platform to track coding progress and visualize statistics.
 Practical ML applications and intelligent systems built with Python.
 
 ⭐ **Full Stack Applications**  
-Scalable web applications using React, Flask, FastAPI and Spring Boot.
+Scalable Full Stack Development using MEAN STACK.
 
 ⭐ **Pinned Repositories**
 Check out my GitHub profile for more exciting projects.
